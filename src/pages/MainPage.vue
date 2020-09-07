@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <h3 class="title">Members</h3>
     <json-table :per-page-members="perPageMembers"/>
     <div class="action-group">
       <div class="sort-by">

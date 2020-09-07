@@ -16,5 +16,17 @@
 }
 .label {
   margin-right: 10px;
-  color: #007bff;
+}
+.title {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+a {
+  color: black !important;
+}
+.page-item.active .page-link {
+  background-color: #aeb1b3 !important;
+  border-color: #aeb1b3 !important;
 }
